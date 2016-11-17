@@ -8,7 +8,7 @@ import vo.UserVO;
 
 /**
  * 处理userui对应的逻辑，所有传入的参数都需要在界面层检验输入是否合法
- * @author wxy
+ * @author wxy shfbsjhf
  *
  */
 public interface UserService {
