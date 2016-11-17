@@ -7,7 +7,7 @@ import vo.WebManagerVO;
 
 /**
  * 处理与登陆、注册界面有关的逻辑，所有传入的参数必须在界面层检验是否合法
- * @author john
+ * @author john shagfjsgfkgsjkg
  *
  */
 public interface LoginService {
